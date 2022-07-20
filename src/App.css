@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.HomeNav{
+  height: 70px;
+  width: 97%;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  border: 2px solid black;
+
+}
+.menus{
+  margin-top: 50px;
+  border: 2px solid red;
+}
